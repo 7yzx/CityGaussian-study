@@ -1,0 +1,4 @@
+# ninja log v5
+0	17640	1722996455453256929	/home/farsee/ALL_CODE/3DGS/CityGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	e5e80b8c39079d55
+0	24940	1722996462733158245	/home/farsee/ALL_CODE/3DGS/CityGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	f5cd3fff20f0cebb
+0	67120	1722996504932587583	/home/farsee/ALL_CODE/3DGS/CityGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	9691f53fbeef0222
